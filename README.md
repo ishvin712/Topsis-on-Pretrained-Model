@@ -65,7 +65,7 @@ Output will be saved in `output.txt` and visualized in `Figure_1.png` and `Figur
 - Optimizing weight selection **using AHP (Analytic Hierarchy Process)**.
 
 ## Contributors
-- **Archie Bajaj** ([GitHub](https://github.com/abajaj15))
+- **Ishant Vinaik** ([GitHub](https://github.com/ishvin712))
 
 ## License
 This project is licensed under the **MIT License**.
